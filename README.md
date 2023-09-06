@@ -1,17 +1,27 @@
-## About Me
+# About Me
 
-👋 Hi, I'm John Elijah, a 22-year-old psychology student with a deep passion for web design and programming.
+![Banner Image](https://i.ibb.co/47Wbh6S/github-header.png)
 
-### Skills
+22-year-old undergraduate student pursuing a Bachelor of Science degree in Psychology, but my true passion lies in the world of web design and programming. I believe in the power of technology to create beautiful and functional user experiences, and I'm constantly honing my skills to bring my creative ideas to life.
 
-- **JavaScript**: I create interactive web applications.
-- **HTML/CSS**: I craft visually appealing, well-structured websites.
-- **Creative Web Design**: I love experimenting with design trends.
+## Skills
 
-### Interests
+- **JavaScript**: I have a strong grasp of JavaScript, which allows me to create interactive and dynamic web applications.
 
-- 🎨 Exploring new design trends.
-- 💻 Web development, from personal projects to open-source contributions.
+- **HTML/CSS**: I'm proficient in HTML and CSS, the building blocks of web design, ensuring that my websites are not only visually appealing but also well-structured and accessible.
+
+- **Creative Web Design**: My passion for creative web design drives me to create visually stunning and user-friendly websites that leave a lasting impression.
+
+## Interests
+
+- 🎨 I love exploring new design trends and experimenting with different styles to create unique web experiences.
+
+- 💻 I enjoy working on web development projects, from personal websites to open-source contributions.
+
 - 🧠 Applying psychology insights to user-centered design.
 
-Let's connect and collaborate! 🌐
+## Let's Connect
+
+I'm always eager to collaborate, learn, and grow within the web development and design community. Feel free to reach out to me, whether it's to discuss a project, share knowledge, or just have a friendly chat.
+
+Let's build a better web together! 🌐
